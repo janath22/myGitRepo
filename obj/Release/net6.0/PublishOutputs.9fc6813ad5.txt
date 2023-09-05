@@ -1,0 +1,13 @@
+C:\Users\z003ztay\source\repos\MyAureSolution\WebAppwithSql\obj\Release\net6.0\PubTmp\Out\WebAppwithSql.exe
+C:\Users\z003ztay\source\repos\MyAureSolution\WebAppwithSql\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\z003ztay\source\repos\MyAureSolution\WebAppwithSql\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\z003ztay\source\repos\MyAureSolution\WebAppwithSql\obj\Release\net6.0\PubTmp\Out\WebAppwithSql.dll
+C:\Users\z003ztay\source\repos\MyAureSolution\WebAppwithSql\obj\Release\net6.0\PubTmp\Out\WebAppwithSql.deps.json
+C:\Users\z003ztay\source\repos\MyAureSolution\WebAppwithSql\obj\Release\net6.0\PubTmp\Out\WebAppwithSql.runtimeconfig.json
+C:\Users\z003ztay\source\repos\MyAureSolution\WebAppwithSql\obj\Release\net6.0\PubTmp\Out\WebAppwithSql.pdb
+C:\Users\z003ztay\source\repos\MyAureSolution\WebAppwithSql\obj\Release\net6.0\PubTmp\Out\System.Data.SqlClient.dll
+C:\Users\z003ztay\source\repos\MyAureSolution\WebAppwithSql\obj\Release\net6.0\PubTmp\Out\runtimes\win-arm64\native\sni.dll
+C:\Users\z003ztay\source\repos\MyAureSolution\WebAppwithSql\obj\Release\net6.0\PubTmp\Out\runtimes\win-x64\native\sni.dll
+C:\Users\z003ztay\source\repos\MyAureSolution\WebAppwithSql\obj\Release\net6.0\PubTmp\Out\runtimes\win-x86\native\sni.dll
+C:\Users\z003ztay\source\repos\MyAureSolution\WebAppwithSql\obj\Release\net6.0\PubTmp\Out\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\z003ztay\source\repos\MyAureSolution\WebAppwithSql\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
